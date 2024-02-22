@@ -1,0 +1,480 @@
+Club,Competition,Expenditure,Arrivals,Income,Departures,Balance,year,start_date,end_date
+Arsenal,England Premier League,56.3,23,49.53,20,-6.78,00-01,2000-08-01,2001-06-01
+Leeds,England Premier League,53.15,11,12.33,10,-40.82,00-01,2000-08-01,2001-06-01
+Chelsea,England Premier League,52.39,24,37.72,19,-14.67,00-01,2000-08-01,2001-06-01
+Everton,England Premier League,34.48,17,35.55,17,1.07,00-01,2000-08-01,2001-06-01
+Liverpool,England Premier League,34.0,20,19.61,16,-14.4,00-01,2000-08-01,2001-06-01
+Middlesbrough,England Premier League,33.47,23,10.0,17,-23.47,00-01,2000-08-01,2001-06-01
+Newcastle,England Premier League,25.91,21,26.39,22,0.475,00-01,2000-08-01,2001-06-01
+Tottenham,England Premier League,25.74,8,2.46,11,-23.29,00-01,2000-08-01,2001-06-01
+Aston Villa,England Premier League,21.12,16,20.82,13,-0.305,00-01,2000-08-01,2001-06-01
+Charlton,England Premier League,20.8,15,0.532,16,-20.27,00-01,2000-08-01,2001-06-01
+Man City,England Premier League,20.28,27,1.46,28,-18.81,00-01,2000-08-01,2001-06-01
+Coventry,England Premier League,19.0,14,26.28,16,7.28,00-01,2000-08-01,2001-06-01
+West Ham,England Premier League,18.65,26,42.4,29,23.75,00-01,2000-08-01,2001-06-01
+Sunderland,England Premier League,16.87,20,5.53,25,-11.34,00-01,2000-08-01,2001-06-01
+Derby,England Premier League,13.33,16,6.88,12,-6.45,00-01,2000-08-01,2001-06-01
+Man United,England Premier League,11.7,9,9.88,13,-1.83,00-01,2000-08-01,2001-06-01
+Leicester,England Premier League,11.7,18,9.7,18,-2.0,00-01,2000-08-01,2001-06-01
+Ipswich,England Premier League,9.6,12,4.5,13,-5.1,00-01,2000-08-01,2001-06-01
+Bradford,England Premier League,6.61,16,8.94,21,2.34,00-01,2000-08-01,2001-06-01
+Southampton,England Premier League,0.0,13,0.145,16,0.145,00-01,2000-08-01,2001-06-01
+Man United,England Premier League,85.85,21,43.6,16,-42.25,01-02,2001-08-01,2002-06-01
+Fulham,England Premier League,50.6,13,1.03,14,-49.58,01-02,2001-08-01,2002-06-01
+Chelsea,England Premier League,49.7,10,14.32,16,-35.38,01-02,2001-08-01,2002-06-01
+Leeds,England Premier League,46.3,11,4.58,14,-41.73,01-02,2001-08-01,2002-06-01
+Blackburn,England Premier League,33.01,21,10.68,25,-22.34,01-02,2001-08-01,2002-06-01
+Arsenal,England Premier League,32.69,21,12.0,15,-20.69,01-02,2001-08-01,2002-06-01
+Newcastle,England Premier League,31.59,18,0.89,21,-30.7,01-02,2001-08-01,2002-06-01
+Liverpool,England Premier League,31.56,8,28.65,10,-2.91,01-02,2001-08-01,2002-06-01
+Sunderland,England Premier League,29.76,15,12.89,15,-16.87,01-02,2001-08-01,2002-06-01
+Tottenham,England Premier League,28.05,10,9.75,9,-18.3,01-02,2001-08-01,2002-06-01
+Aston Villa,England Premier League,26.1,15,16.88,16,-9.23,01-02,2001-08-01,2002-06-01
+Middlesbrough,England Premier League,22.7,24,5.27,30,-17.43,01-02,2001-08-01,2002-06-01
+West Ham,England Premier League,22.06,9,18.13,16,-3.94,01-02,2001-08-01,2002-06-01
+Ipswich,England Premier League,20.23,22,13.5,14,-6.73,01-02,2001-08-01,2002-06-01
+Southampton,England Premier League,19.35,16,14.45,15,-4.9,01-02,2001-08-01,2002-06-01
+Leicester,England Premier League,19.2,21,3.03,19,-16.17,01-02,2001-08-01,2002-06-01
+Charlton,England Premier League,13.5,14,1.38,16,-12.13,01-02,2001-08-01,2002-06-01
+Everton,England Premier League,10.5,6,11.93,11,1.43,01-02,2001-08-01,2002-06-01
+Derby,England Premier League,4.59,14,17.5,15,12.92,01-02,2001-08-01,2002-06-01
+Bolton,England Premier League,3.13,26,0.07,20,-3.06,01-02,2001-08-01,2002-06-01
+Man United,England Premier League,48.53,15,3.5,15,-45.03,02-03,2002-08-01,2003-06-01
+Man City,England Premier League,44.45,15,0.75,16,-43.7,02-03,2002-08-01,2003-06-01
+Newcastle,England Premier League,34.55,15,0.23,14,-34.33,02-03,2002-08-01,2003-06-01
+Middlesbrough,England Premier League,34.08,22,0.0,26,-34.08,02-03,2002-08-01,2003-06-01
+Liverpool,England Premier League,31.5,16,11.8,16,-19.7,02-03,2002-08-01,2003-06-01
+Sunderland,England Premier League,29.68,24,0.0,19,-29.68,02-03,2002-08-01,2003-06-01
+West Brom,England Premier League,16.95,10,0.0,7,-16.95,02-03,2002-08-01,2003-06-01
+Birmingham,England Premier League,15.68,22,1.15,19,-14.53,02-03,2002-08-01,2003-06-01
+Everton,England Premier League,13.88,22,0.38,14,-13.5,02-03,2002-08-01,2003-06-01
+Arsenal,England Premier League,12.83,14,8.22,19,-4.61,02-03,2002-08-01,2003-06-01
+Southampton,England Premier League,12.0,15,0.0,18,-12.0,02-03,2002-08-01,2003-06-01
+Tottenham,England Premier League,10.5,23,1.35,22,-9.15,02-03,2002-08-01,2003-06-01
+Aston Villa,England Premier League,9.08,23,6.9,16,-2.18,02-03,2002-08-01,2003-06-01
+Blackburn,England Premier League,7.25,21,1.8,16,-5.45,02-03,2002-08-01,2003-06-01
+Charlton,England Premier League,6.75,12,2.65,13,-4.1,02-03,2002-08-01,2003-06-01
+Leeds,England Premier League,4.5,19,80.12,19,75.62,02-03,2002-08-01,2003-06-01
+Fulham,England Premier League,3.0,8,0.83,11,-2.18,02-03,2002-08-01,2003-06-01
+West Ham,England Premier League,0.4,19,0.08,19,-0.33,02-03,2002-08-01,2003-06-01
+Bolton,England Premier League,0.0,25,5.29,31,5.29,02-03,2002-08-01,2003-06-01
+Chelsea,England Premier League,0.0,10,2.1,10,2.1,02-03,2002-08-01,2003-06-01
+Chelsea,England Premier League,170.0,24,0.95,22,-169.05,03-04,2003-08-01,2004-06-01
+Man United,England Premier League,56.53,23,59.3,28,2.78,03-04,2003-08-01,2004-06-01
+Tottenham,England Premier League,29.75,17,1.75,22,-28.0,03-04,2003-08-01,2004-06-01
+Arsenal,England Premier League,27.42,18,1.05,22,-26.37,03-04,2003-08-01,2004-06-01
+Blackburn,England Premier League,22.34,23,34.85,30,12.51,03-04,2003-08-01,2004-06-01
+Birmingham,England Premier League,17.1,16,1.95,27,-15.15,03-04,2003-08-01,2004-06-01
+Liverpool,England Premier League,15.65,19,0.0,13,-15.65,03-04,2003-08-01,2004-06-01
+Man City,England Premier League,14.26,21,6.62,23,-7.64,03-04,2003-08-01,2004-06-01
+Portsmouth,England Premier League,11.78,37,0.2,37,-11.58,03-04,2003-08-01,2004-06-01
+Middlesbrough,England Premier League,10.2,29,1.13,30,-9.08,03-04,2003-08-01,2004-06-01
+Everton,England Premier League,9.92,17,0.98,19,-8.94,03-04,2003-08-01,2004-06-01
+Wolves,England Premier League,9.88,27,1.15,20,-8.73,03-04,2003-08-01,2004-06-01
+Southampton,England Premier League,8.98,19,10.88,18,1.9,03-04,2003-08-01,2004-06-01
+Fulham,England Premier League,8.48,32,25.04,26,16.56,03-04,2003-08-01,2004-06-01
+Aston Villa,England Premier League,8.38,19,0.29,29,-8.09,03-04,2003-08-01,2004-06-01
+Charlton,England Premier League,1.5,19,15.0,17,13.5,03-04,2003-08-01,2004-06-01
+Leicester,England Premier League,1.14,30,0.0,29,-1.14,03-04,2003-08-01,2004-06-01
+Bolton,England Premier League,0.75,27,0.08,29,-0.68,03-04,2003-08-01,2004-06-01
+Leeds,England Premier League,0.1,26,16.83,30,16.73,03-04,2003-08-01,2004-06-01
+Newcastle,England Premier League,0.0,15,5.0,22,5.0,03-04,2003-08-01,2004-06-01
+Chelsea,England Premier League,162.4,21,3.3,25,-159.1,04-05,2004-08-01,2005-06-01
+Man United,England Premier League,61.25,20,9.57,19,-51.69,04-05,2004-08-01,2005-06-01
+Liverpool,England Premier League,58.4,22,24.57,22,-33.83,04-05,2004-08-01,2005-06-01
+Tottenham,England Premier League,47.13,37,10.5,34,-36.63,04-05,2004-08-01,2005-06-01
+Newcastle,England Premier League,29.45,17,22.28,19,-7.18,04-05,2004-08-01,2005-06-01
+West Brom,England Premier League,15.85,18,1.95,24,-13.9,04-05,2004-08-01,2005-06-01
+Birmingham,England Premier League,15.77,28,8.15,21,-7.62,04-05,2004-08-01,2005-06-01
+Fulham,England Premier League,13.95,23,5.2,22,-8.75,04-05,2004-08-01,2005-06-01
+Charlton,England Premier League,13.25,17,1.95,19,-11.3,04-05,2004-08-01,2005-06-01
+Southampton,England Premier League,12.68,33,11.5,31,-1.18,04-05,2004-08-01,2005-06-01
+Arsenal,England Premier League,12.48,22,3.9,19,-8.58,04-05,2004-08-01,2005-06-01
+Everton,England Premier League,11.88,9,45.4,17,33.53,04-05,2004-08-01,2005-06-01
+Portsmouth,England Premier League,10.85,27,6.6,36,-4.25,04-05,2004-08-01,2005-06-01
+Aston Villa,England Premier League,10.14,14,3.43,17,-6.72,04-05,2004-08-01,2005-06-01
+Norwich,England Premier League,8.53,18,0.45,15,-8.08,04-05,2004-08-01,2005-06-01
+Blackburn,England Premier League,7.88,21,7.7,21,-0.18,04-05,2004-08-01,2005-06-01
+Middlesbrough,England Premier League,6.75,20,3.45,22,-3.3,04-05,2004-08-01,2005-06-01
+Crystal Palace,England Premier League,5.15,18,0.1,15,-5.05,04-05,2004-08-01,2005-06-01
+Man City,England Premier League,1.5,17,7.94,19,6.44,04-05,2004-08-01,2005-06-01
+Bolton,England Premier League,1.38,24,0.38,25,-1.0,04-05,2004-08-01,2005-06-01
+Chelsea,England Premier League,91.50m,15,34.60m,18,-56.90m,05-06,2005-08-01,2006-06-01
+Newcastle,England Premier League,61.75m,16,30.90m,16,-30.85m,05-06,2005-08-01,2006-06-01
+Arsenal,England Premier League,46.00m,17,25.00m,18,-21.00m,05-06,2005-08-01,2006-06-01
+Liverpool,England Premier League,44.06m,26,19.04m,26,-25.02m,05-06,2005-08-01,2006-06-01
+Tottenham,England Premier League,36.51m,25,25.45m,25,-11.06m,05-06,2005-08-01,2006-06-01
+Everton,England Premier League,32.53m,16,7.00m,13,-25.53m,05-06,2005-08-01,2006-06-01
+Man United,England Premier League,31.80m,24,7.90m,27,-23.90m,05-06,2005-08-01,2006-06-01
+West Ham,England Premier League,21.59m,32,550k,30,-21.04m,05-06,2005-08-01,2006-06-01
+Portsmouth,England Premier League,18.78m,39,12.15m,35,-6.63m,05-06,2005-08-01,2006-06-01
+Aston Villa,England Premier League,16.54m,16,6.40m,15,-10.14m,05-06,2005-08-01,2006-06-01
+Wigan,England Premier League,15.77m,17,5.63m,18,-10.15m,05-06,2005-08-01,2006-06-01
+West Brom,England Premier League,15.30m,16,9.08m,17,-6.23m,05-06,2005-08-01,2006-06-01
+Middlesbrough,England Premier League,13.96m,18,-,12,-13.96m,05-06,2005-08-01,2006-06-01
+Man City,England Premier League,12.48m,13,32.50m,12,20.03m,05-06,2005-08-01,2006-06-01
+Birmingham,England Premier League,12.10m,31,7.95m,27,-4.15m,05-06,2005-08-01,2006-06-01
+Blackburn,England Premier League,9.40m,23,2.70m,25,-6.70m,05-06,2005-08-01,2006-06-01
+Charlton,England Premier League,9.10m,31,5.71m,22,-3.39m,05-06,2005-08-01,2006-06-01
+Fulham,England Premier League,6.55m,24,4.63m,24,-1.93m,05-06,2005-08-01,2006-06-01
+Bolton,England Premier League,6.20m,14,-,15,-6.20m,05-06,2005-08-01,2006-06-01
+Sunderland,England Premier League,5.93m,24,1.43m,25,-4.50m,05-06,2005-08-01,2006-06-01
+Chelsea,England Premier League,88.98m,18,52.60m,17,-36.38m,06-07,2006-08-01,2007-06-01
+West Ham,England Premier League,69.85m,22,6.75m,22,-63.10m,06-07,2006-08-01,2007-06-01
+Tottenham,England Premier League,61.00m,19,38.65m,22,-22.35m,06-07,2006-08-01,2007-06-01
+Liverpool,England Premier League,46.00m,27,24.73m,27,-21.28m,06-07,2006-08-01,2007-06-01
+Newcastle,England Premier League,31.88m,11,11.18m,13,-20.70m,06-07,2006-08-01,2007-06-01
+Wigan,England Premier League,29.38m,23,24.33m,24,-5.05m,06-07,2006-08-01,2007-06-01
+Man United,England Premier League,27.20m,23,18.00m,26,-9.20m,06-07,2006-08-01,2007-06-01
+Aston Villa,England Premier League,24.70m,18,1.83m,16,-22.88m,06-07,2006-08-01,2007-06-01
+Charlton,England Premier League,21.65m,33,2.28m,35,-19.38m,06-07,2006-08-01,2007-06-01
+Sheffield United,England Premier League,18.03m,39,3.33m,37,-14.70m,06-07,2006-08-01,2007-06-01
+Blackburn,England Premier League,17.98m,27,16.91m,24,-1.07m,06-07,2006-08-01,2007-06-01
+Everton,England Premier League,17.90m,13,2.50m,15,-15.40m,06-07,2006-08-01,2007-06-01
+Bolton,England Premier League,17.00m,20,3.85m,16,-13.15m,06-07,2006-08-01,2007-06-01
+Arsenal,England Premier League,15.00m,15,12.93m,18,-2.08m,06-07,2006-08-01,2007-06-01
+Fulham,England Premier League,13.80m,19,10.52m,23,-3.29m,06-07,2006-08-01,2007-06-01
+Middlesbrough,England Premier League,11.30m,21,4.68m,23,-6.63m,06-07,2006-08-01,2007-06-01
+Watford,England Premier League,10.48m,32,13.50m,21,3.03m,06-07,2006-08-01,2007-06-01
+Reading,England Premier League,9.23m,27,-,17,-9.23m,06-07,2006-08-01,2007-06-01
+Portsmouth,England Premier League,9.10m,28,1.25m,31,-7.85m,06-07,2006-08-01,2007-06-01
+Man United,England Premier League,106.50m,25,46.60m,22,-59.90m,07-08,2007-08-01,2008-06-01
+Tottenham,England Premier League,94.15m,26,22.55m,21,-71.60m,07-08,2007-08-01,2008-06-01
+Liverpool,England Premier League,90.70m,26,46.75m,26,-43.95m,07-08,2007-08-01,2008-06-01
+Man City,England Premier League,77.95m,31,10.56m,26,-67.39m,07-08,2007-08-01,2008-06-01
+Sunderland,England Premier League,64.32m,31,3.20m,21,-61.12m,07-08,2007-08-01,2008-06-01
+Chelsea,England Premier League,59.00m,20,43.65m,16,-15.35m,07-08,2007-08-01,2008-06-01
+Portsmouth,England Premier League,58.64m,27,23.38m,25,-35.27m,07-08,2007-08-01,2008-06-01
+Middlesbrough,England Premier League,50.60m,21,30.23m,23,-20.38m,07-08,2007-08-01,2008-06-01
+Fulham,England Premier League,50.43m,38,19.50m,27,-30.93m,07-08,2007-08-01,2008-06-01
+West Ham,England Premier League,47.15m,18,42.00m,17,-5.15m,07-08,2007-08-01,2008-06-01
+Newcastle,England Premier League,37.85m,19,31.70m,17,-6.15m,07-08,2007-08-01,2008-06-01
+Everton,England Premier League,37.55m,16,14.80m,16,-22.75m,07-08,2007-08-01,2008-06-01
+Arsenal,England Premier League,30.95m,17,56.73m,18,25.78m,07-08,2007-08-01,2008-06-01
+Birmingham,England Premier League,29.30m,30,8.48m,29,-20.83m,07-08,2007-08-01,2008-06-01
+Aston Villa,England Premier League,24.90m,11,17.90m,16,-7.00m,07-08,2007-08-01,2008-06-01
+Derby,England Premier League,22.68m,30,5.24m,28,-17.44m,07-08,2007-08-01,2008-06-01
+Bolton,England Premier League,22.35m,25,21.97m,23,-384k,07-08,2007-08-01,2008-06-01
+Wigan,England Premier League,17.90m,25,17.83m,21,-75k,07-08,2007-08-01,2008-06-01
+Reading,England Premier League,12.10m,40,5.70m,35,-6.40m,07-08,2007-08-01,2008-06-01
+Blackburn,England Premier League,6.20m,19,3.98m,18,-2.23m,07-08,2007-08-01,2008-06-01
+Man City,England Premier League,157.35m,26,26.50m,18,-130.85m,08-09,2008-08-01,2009-06-01
+Tottenham,England Premier League,143.95m,34,88.05m,35,-55.90m,08-09,2008-08-01,2009-06-01
+Liverpool,England Premier League,71.45m,29,46.45m,29,-25.00m,08-09,2008-08-01,2009-06-01
+Aston Villa,England Premier League,55.90m,19,7.52m,15,-48.38m,08-09,2008-08-01,2009-06-01
+Man United,England Premier League,45.25m,16,7.45m,17,-37.80m,08-09,2008-08-01,2009-06-01
+Arsenal,England Premier League,40.15m,15,25.80m,11,-14.35m,08-09,2008-08-01,2009-06-01
+Newcastle,England Premier League,35.48m,22,41.40m,15,5.93m,08-09,2008-08-01,2009-06-01
+Stoke,England Premier League,33.95m,24,765k,19,-33.19m,08-09,2008-08-01,2009-06-01
+Sunderland,England Premier League,33.11m,34,11.15m,34,-21.96m,08-09,2008-08-01,2009-06-01
+Chelsea,England Premier League,30.50m,15,44.55m,17,14.05m,08-09,2008-08-01,2009-06-01
+Portsmouth,England Premier League,28.20m,29,54.15m,24,25.95m,08-09,2008-08-01,2009-06-01
+Fulham,England Premier League,26.85m,29,16.33m,39,-10.53m,08-09,2008-08-01,2009-06-01
+Everton,England Premier League,25.08m,14,13.30m,10,-11.78m,08-09,2008-08-01,2009-06-01
+West Brom,England Premier League,24.32m,21,10.25m,20,-14.07m,08-09,2008-08-01,2009-06-01
+Wigan,England Premier League,24.10m,22,24.50m,27,400k,08-09,2008-08-01,2009-06-01
+Bolton,England Premier League,23.70m,14,10.88m,16,-12.83m,08-09,2008-08-01,2009-06-01
+Hull,England Premier League,17.95m,26,-,18,-17.95m,08-09,2008-08-01,2009-06-01
+West Ham,England Premier League,16.00m,27,68.83m,25,52.83m,08-09,2008-08-01,2009-06-01
+Middlesbrough,England Premier League,12.80m,18,8.72m,18,-4.08m,08-09,2008-08-01,2009-06-01
+Blackburn,England Premier League,11.68m,25,26.50m,26,14.82m,08-09,2008-08-01,2009-06-01
+Man City,England Premier League,147.30m,22,29.20m,28,-118.10m,09-10,2009-08-01,2010-06-01
+Aston Villa,England Premier League,46.90m,21,22.10m,16,-24.80m,09-10,2009-08-01,2010-06-01
+Liverpool,England Premier League,43.50m,21,48.55m,26,5.05m,09-10,2009-08-01,2010-06-01
+Tottenham,England Premier League,40.30m,32,31.70m,31,-8.60m,09-10,2009-08-01,2010-06-01
+Sunderland,England Premier League,37.00m,23,21.28m,29,-15.73m,09-10,2009-08-01,2010-06-01
+Chelsea,England Premier League,30.00m,16,3.80m,12,-26.20m,09-10,2009-08-01,2010-06-01
+Man United,England Premier League,27.30m,17,104.47m,17,77.17m,09-10,2009-08-01,2010-06-01
+Stoke,England Premier League,26.05m,23,6.50m,23,-19.55m,09-10,2009-08-01,2010-06-01
+Everton,England Premier League,23.30m,15,28.34m,15,5.04m,09-10,2009-08-01,2010-06-01
+West Ham,England Premier League,21.65m,23,41.30m,26,19.65m,09-10,2009-08-01,2010-06-01
+Birmingham,England Premier League,20.05m,26,400k,27,-19.65m,09-10,2009-08-01,2010-06-01
+Wolves,England Premier League,19.45m,32,870k,26,-18.58m,09-10,2009-08-01,2010-06-01
+Wigan,England Premier League,18.44m,18,25.98m,18,7.55m,09-10,2009-08-01,2010-06-01
+Hull,England Premier League,14.85m,21,7.10m,26,-7.75m,09-10,2009-08-01,2010-06-01
+Burnley,England Premier League,13.54m,33,90k,19,-13.45m,09-10,2009-08-01,2010-06-01
+Blackburn,England Premier League,13.28m,39,36.65m,35,23.37m,09-10,2009-08-01,2010-06-01
+Arsenal,England Premier League,12.00m,13,47.70m,13,35.70m,09-10,2009-08-01,2010-06-01
+Bolton,England Premier League,12.00m,25,2.00m,15,-10.00m,09-10,2009-08-01,2010-06-01
+Portsmouth,England Premier League,10.56m,32,52.05m,35,41.49m,09-10,2009-08-01,2010-06-01
+Fulham,England Premier League,7.11m,27,-,24,-7.11m,09-10,2009-08-01,2010-06-01
+Man City,England Premier League,183.61m,33,40.15m,26,-143.46m,10-11,2010-08-01,2011-06-01
+Chelsea,England Premier League,121.50m,19,16.50m,21,-105.00m,10-11,2010-08-01,2011-06-01
+Liverpool,England Premier League,97.73m,21,101.50m,24,3.78m,10-11,2010-08-01,2011-06-01
+Aston Villa,England Premier League,37.40m,20,28.40m,20,-9.00m,10-11,2010-08-01,2011-06-01
+Man United,England Premier League,29.30m,16,16.97m,18,-12.34m,10-11,2010-08-01,2011-06-01
+Sunderland,England Premier League,29.10m,29,41.78m,29,12.68m,10-11,2010-08-01,2011-06-01
+Tottenham,England Premier League,26.60m,39,2.94m,33,-23.67m,10-11,2010-08-01,2011-06-01
+Birmingham,England Premier League,25.60m,24,175k,21,-25.43m,10-11,2010-08-01,2011-06-01
+Arsenal,England Premier League,23.00m,18,8.10m,22,-14.90m,10-11,2010-08-01,2011-06-01
+Stoke,England Premier League,21.10m,24,6.78m,23,-14.33m,10-11,2010-08-01,2011-06-01
+Wolves,England Premier League,20.22m,28,6.44m,25,-13.78m,10-11,2010-08-01,2011-06-01
+West Ham,England Premier League,18.03m,18,4.95m,19,-13.08m,10-11,2010-08-01,2011-06-01
+Newcastle,England Premier League,13.98m,18,41.75m,16,27.77m,10-11,2010-08-01,2011-06-01
+West Brom,England Premier League,13.83m,28,850k,25,-12.98m,10-11,2010-08-01,2011-06-01
+Wigan,England Premier League,11.40m,23,3.40m,21,-8.00m,10-11,2010-08-01,2011-06-01
+Fulham,England Premier League,11.05m,16,12.81m,22,1.76m,10-11,2010-08-01,2011-06-01
+Blackpool,England Premier League,5.73m,27,700k,23,-5.03m,10-11,2010-08-01,2011-06-01
+Bolton,England Premier League,5.40m,17,1.40m,19,-4.00m,10-11,2010-08-01,2011-06-01
+Blackburn,England Premier League,5.05m,29,275k,29,-4.78m,10-11,2010-08-01,2011-06-01
+Everton,England Premier League,1.70m,12,6.60m,14,4.90m,10-11,2010-08-01,2011-06-01
+Chelsea,England Premier League,96.45m,22,31.56m,22,-64.89m,11-12,2011-08-01,2012-06-01
+Man City,England Premier League,91.05m,29,31.20m,35,-59.85m,11-12,2011-08-01,2012-06-01
+Arsenal,England Premier League,65.48m,33,78.29m,26,12.82m,11-12,2011-08-01,2012-06-01
+Liverpool,England Premier League,65.33m,21,22.00m,18,-43.33m,11-12,2011-08-01,2012-06-01
+Man United,England Premier League,62.30m,15,12.90m,18,-49.41m,11-12,2011-08-01,2012-06-01
+Sunderland,England Premier League,27.92m,35,26.33m,31,-1.60m,11-12,2011-08-01,2012-06-01
+Newcastle,England Premier League,27.00m,27,16.04m,26,-10.96m,11-12,2011-08-01,2012-06-01
+QPR,England Premier League,26.23m,46,2.80m,41,-23.43m,11-12,2011-08-01,2012-06-01
+Stoke,England Premier League,24.80m,26,1.99m,26,-22.82m,11-12,2011-08-01,2012-06-01
+Blackburn,England Premier League,20.55m,26,40.30m,28,19.75m,11-12,2011-08-01,2012-06-01
+Aston Villa,England Premier League,20.34m,20,43.75m,25,23.41m,11-12,2011-08-01,2012-06-01
+Fulham,England Premier League,18.13m,21,7.67m,17,-10.46m,11-12,2011-08-01,2012-06-01
+Bolton,England Premier League,15.60m,24,16.33m,21,730k,11-12,2011-08-01,2012-06-01
+Norwich,England Premier League,15.25m,19,500k,18,-14.75m,11-12,2011-08-01,2012-06-01
+Swansea,England Premier League,12.85m,23,455k,20,-12.40m,11-12,2011-08-01,2012-06-01
+Wigan,England Premier League,12.38m,23,11.29m,15,-1.09m,11-12,2011-08-01,2012-06-01
+Wolves,England Premier League,12.05m,29,2.60m,32,-9.45m,11-12,2011-08-01,2012-06-01
+West Brom,England Premier League,9.14m,25,11.12m,26,1.98m,11-12,2011-08-01,2012-06-01
+Tottenham,England Premier League,9.00m,36,43.25m,36,34.25m,11-12,2011-08-01,2012-06-01
+Everton,England Premier League,7.20m,19,26.80m,15,19.60m,11-12,2011-08-01,2012-06-01
+Chelsea,England Premier League,109.70m,29,25.45m,28,-84.25m,12-13,2012-08-01,2013-06-01
+Man United,England Premier League,76.45m,18,9.65m,15,-66.80m,12-13,2012-08-01,2013-06-01
+Tottenham,England Premier League,73.25m,29,72.78m,34,-470k,12-13,2012-08-01,2013-06-01
+Liverpool,England Premier League,70.60m,19,10.45m,18,-60.15m,12-13,2012-08-01,2013-06-01
+Man City,England Premier League,61.95m,24,44.30m,26,-17.65m,12-13,2012-08-01,2013-06-01
+Arsenal,England Premier League,56.00m,18,65.85m,19,9.85m,12-13,2012-08-01,2013-06-01
+QPR,England Premier League,50.35m,38,4.51m,46,-45.84m,12-13,2012-08-01,2013-06-01
+Southampton,England Premier League,41.50m,29,-,25,-41.50m,12-13,2012-08-01,2013-06-01
+Sunderland,England Premier League,38.30m,26,14.83m,30,-23.48m,12-13,2012-08-01,2013-06-01
+Newcastle,England Premier League,31.97m,21,14.80m,19,-17.17m,12-13,2012-08-01,2013-06-01
+Aston Villa,England Premier League,27.83m,18,3.20m,12,-24.63m,12-13,2012-08-01,2013-06-01
+West Ham,England Premier League,23.90m,24,5.05m,28,-18.85m,12-13,2012-08-01,2013-06-01
+Stoke,England Premier League,23.68m,23,640k,24,-23.04m,12-13,2012-08-01,2013-06-01
+Everton,England Premier League,21.65m,12,18.75m,13,-2.90m,12-13,2012-08-01,2013-06-01
+Swansea,England Premier League,20.47m,20,32.60m,22,12.13m,12-13,2012-08-01,2013-06-01
+Norwich,England Premier League,11.08m,28,380k,24,-10.70m,12-13,2012-08-01,2013-06-01
+Reading,England Premier League,10.82m,32,900k,27,-9.92m,12-13,2012-08-01,2013-06-01
+Wigan,England Premier League,10.54m,21,13.25m,23,2.72m,12-13,2012-08-01,2013-06-01
+Fulham,England Premier League,10.00m,26,31.42m,28,21.42m,12-13,2012-08-01,2013-06-01
+West Brom,England Premier League,5.00m,16,3.73m,18,-1.28m,12-13,2012-08-01,2013-06-01
+Chelsea,England Premier League,130.35m,38,77.93m,36,-52.42m,13-14,2013-08-01,2014-06-01
+Tottenham,England Premier League,122.55m,30,138.40m,28,15.85m,13-14,2013-08-01,2014-06-01
+Man City,England Premier League,115.50m,16,11.30m,18,-104.20m,13-14,2013-08-01,2014-06-01
+Man United,England Premier League,77.13m,18,1.80m,20,-75.33m,13-14,2013-08-01,2014-06-01
+Liverpool,England Premier League,58.10m,18,32.50m,23,-25.60m,13-14,2013-08-01,2014-06-01
+Arsenal,England Premier League,49.25m,21,12.15m,23,-37.10m,13-14,2013-08-01,2014-06-01
+Cardiff,England Premier League,45.82m,32,3.74m,29,-42.08m,13-14,2013-08-01,2014-06-01
+Southampton,England Premier League,39.60m,15,4.20m,23,-35.40m,13-14,2013-08-01,2014-06-01
+Sunderland,England Premier League,33.91m,36,22.38m,33,-11.53m,13-14,2013-08-01,2014-06-01
+Crystal Palace,England Premier League,33.00m,42,-,32,-33.00m,13-14,2013-08-01,2014-06-01
+Everton,England Premier League,31.80m,19,46.10m,19,14.30m,13-14,2013-08-01,2014-06-01
+Hull,England Premier League,31.10m,32,880k,32,-30.22m,13-14,2013-08-01,2014-06-01
+Norwich,England Premier League,30.05m,21,4.84m,21,-25.22m,13-14,2013-08-01,2014-06-01
+Fulham,England Premier League,29.30m,33,4.15m,29,-25.15m,13-14,2013-08-01,2014-06-01
+Swansea,England Premier League,26.61m,24,-,17,-26.61m,13-14,2013-08-01,2014-06-01
+West Ham,England Premier League,24.00m,24,530k,19,-23.47m,13-14,2013-08-01,2014-06-01
+Aston Villa,England Premier League,19.84m,33,8.10m,29,-11.74m,13-14,2013-08-01,2014-06-01
+West Brom,England Premier League,15.70m,16,11.40m,16,-4.30m,13-14,2013-08-01,2014-06-01
+Stoke,England Premier League,7.00m,20,-,20,-7.00m,13-14,2013-08-01,2014-06-01
+Newcastle,England Premier League,3.80m,14,25.87m,17,22.07m,13-14,2013-08-01,2014-06-01
+Man United,England Premier League,195.35m,25,46.70m,26,-148.65m,14-15,2014-08-01,2015-06-01
+Liverpool,England Premier League,151.43m,25,99.27m,21,-52.16m,14-15,2014-08-01,2015-06-01
+Chelsea,England Premier League,137.70m,42,142.81m,48,5.11m,14-15,2014-08-01,2015-06-01
+Arsenal,England Premier League,118.98m,18,27.80m,22,-91.18m,14-15,2014-08-01,2015-06-01
+Man City,England Premier League,102.80m,14,30.30m,16,-72.50m,14-15,2014-08-01,2015-06-01
+Southampton,England Premier League,96.00m,25,123.83m,21,27.83m,14-15,2014-08-01,2015-06-01
+Tottenham,England Premier League,48.48m,20,44.15m,24,-4.33m,14-15,2014-08-01,2015-06-01
+Hull,England Premier League,48.22m,30,18.70m,28,-29.52m,14-15,2014-08-01,2015-06-01
+Newcastle,England Premier League,45.02m,23,23.87m,25,-21.15m,14-15,2014-08-01,2015-06-01
+QPR,England Premier League,43.54m,35,26.04m,35,-17.50m,14-15,2014-08-01,2015-06-01
+Swansea,England Premier League,41.53m,24,61.90m,27,20.37m,14-15,2014-08-01,2015-06-01
+Everton,England Premier League,40.16m,17,1.90m,15,-38.26m,14-15,2014-08-01,2015-06-01
+West Ham,England Premier League,35.15m,25,4.40m,26,-30.75m,14-15,2014-08-01,2015-06-01
+Crystal Palace,England Premier League,31.22m,41,2.87m,39,-28.35m,14-15,2014-08-01,2015-06-01
+West Brom,England Premier League,24.88m,16,2.30m,20,-22.58m,14-15,2014-08-01,2015-06-01
+Leicester,England Premier League,22.86m,30,-,23,-22.86m,14-15,2014-08-01,2015-06-01
+Sunderland,England Premier League,22.52m,21,7.25m,31,-15.27m,14-15,2014-08-01,2015-06-01
+Aston Villa,England Premier League,13.45m,29,1.32m,32,-12.14m,14-15,2014-08-01,2015-06-01
+Burnley,England Premier League,12.62m,24,-,23,-12.62m,14-15,2014-08-01,2015-06-01
+Stoke,England Premier League,1.80m,18,3.80m,19,2.00m,14-15,2014-08-01,2015-06-01
+Man City,England Premier League,208.47m,22,67.44m,25,-141.03m,15-16,2015-08-01,2016-06-01
+Man United,England Premier League,156.00m,22,100.67m,20,-55.33m,15-16,2015-08-01,2016-06-01
+Liverpool,England Premier League,126.50m,24,90.55m,24,-35.95m,15-16,2015-08-01,2016-06-01
+Newcastle,England Premier League,107.91m,26,5.43m,23,-102.48m,15-16,2015-08-01,2016-06-01
+Chelsea,England Premier League,96.50m,39,87.49m,37,-9.01m,15-16,2015-08-01,2016-06-01
+Watford,England Premier League,82.80m,33,9.75m,30,-73.05m,15-16,2015-08-01,2016-06-01
+Tottenham,England Premier League,71.00m,11,87.25m,21,16.25m,15-16,2015-08-01,2016-06-01
+Aston Villa,England Premier League,66.55m,29,64.70m,32,-1.85m,15-16,2015-08-01,2016-06-01
+Sunderland,England Premier League,66.05m,29,11.00m,25,-55.05m,15-16,2015-08-01,2016-06-01
+Southampton,England Premier League,60.10m,16,52.70m,17,-7.40m,15-16,2015-08-01,2016-06-01
+Bournemouth,England Premier League,55.11m,36,650k,33,-54.46m,15-16,2015-08-01,2016-06-01
+Stoke,England Premier League,53.65m,13,23.20m,14,-30.45m,15-16,2015-08-01,2016-06-01
+West Ham,England Premier League,52.70m,25,18.52m,26,-34.19m,15-16,2015-08-01,2016-06-01
+Norwich,England Premier League,50.50m,33,21.49m,30,-29.01m,15-16,2015-08-01,2016-06-01
+Leicester,England Premier League,49.90m,25,9.45m,32,-40.45m,15-16,2015-08-01,2016-06-01
+Everton,England Premier League,48.20m,18,11.00m,17,-37.20m,15-16,2015-08-01,2016-06-01
+West Brom,England Premier League,42.90m,12,12.92m,13,-29.98m,15-16,2015-08-01,2016-06-01
+Crystal Palace,England Premier League,28.80m,19,5.40m,23,-23.40m,15-16,2015-08-01,2016-06-01
+Arsenal,England Premier League,26.50m,15,2.50m,12,-24.00m,15-16,2015-08-01,2016-06-01
+Swansea,England Premier League,21.81m,20,16.81m,24,-5.01m,15-16,2015-08-01,2016-06-01
+Man City,England Premier League,216.25m,31,35.35m,25,-180.90m,16-17,2016-08-01,2017-06-01
+Man United,England Premier League,185.00m,9,47.25m,14,-137.75m,16-17,2016-08-01,2017-06-01
+Chelsea,England Premier League,132.80m,27,108.90m,30,-23.90m,16-17,2016-08-01,2017-06-01
+Arsenal,England Premier League,113.00m,11,10.35m,12,-102.65m,16-17,2016-08-01,2017-06-01
+Crystal Palace,England Premier League,101.20m,22,50.20m,24,-51.00m,16-17,2016-08-01,2017-06-01
+Leicester,England Premier League,92.10m,17,66.05m,18,-26.05m,16-17,2016-08-01,2017-06-01
+Everton,England Premier League,86.00m,18,60.80m,19,-25.20m,16-17,2016-08-01,2017-06-01
+Tottenham,England Premier League,83.50m,8,52.30m,8,-31.20m,16-17,2016-08-01,2017-06-01
+West Ham,England Premier League,83.50m,22,41.00m,15,-42.50m,16-17,2016-08-01,2017-06-01
+Liverpool,England Premier League,79.90m,21,85.38m,19,5.48m,16-17,2016-08-01,2017-06-01
+Watford,England Premier League,70.45m,29,58.10m,32,-12.35m,16-17,2016-08-01,2017-06-01
+Southampton,England Premier League,68.90m,12,85.05m,9,16.15m,16-17,2016-08-01,2017-06-01
+Swansea,England Premier League,58.10m,21,49.30m,17,-8.80m,16-17,2016-08-01,2017-06-01
+Middlesbrough,England Premier League,47.95m,18,13.50m,19,-34.45m,16-17,2016-08-01,2017-06-01
+Burnley,England Premier League,45.60m,27,1.20m,26,-44.40m,16-17,2016-08-01,2017-06-01
+Stoke,England Premier League,42.17m,14,3.80m,13,-38.37m,16-17,2016-08-01,2017-06-01
+Sunderland,England Premier League,41.90m,25,23.77m,23,-18.13m,16-17,2016-08-01,2017-06-01
+Bournemouth,England Premier League,40.69m,19,23.69m,30,-17.00m,16-17,2016-08-01,2017-06-01
+Hull,England Premier League,40.00m,26,28.90m,16,-11.10m,16-17,2016-08-01,2017-06-01
+West Brom,England Premier League,37.90m,13,26.98m,14,-10.93m,16-17,2016-08-01,2017-06-01
+Man City,England Premier League,317.50m,31,91.35m,32,-226.15m,17-18,2017-08-01,2018-06-01
+Chelsea,England Premier League,260.50m,40,194.60m,31,-65.90m,17-18,2017-08-01,2018-06-01
+Everton,England Premier League,203.20m,23,126.38m,20,-76.82m,17-18,2017-08-01,2018-06-01
+Man United,England Premier League,198.40m,13,45.50m,11,-152.90m,17-18,2017-08-01,2018-06-01
+Liverpool,England Premier League,173.65m,13,184.50m,15,10.85m,17-18,2017-08-01,2018-06-01
+Arsenal,England Premier League,152.85m,10,162.00m,16,9.15m,17-18,2017-08-01,2018-06-01
+Tottenham,England Premier League,121.00m,15,103.80m,12,-17.20m,17-18,2017-08-01,2018-06-01
+Leicester,England Premier League,83.85m,14,50.10m,13,-33.75m,17-18,2017-08-01,2018-06-01
+Watford,England Premier League,73.40m,32,18.74m,30,-54.66m,17-18,2017-08-01,2018-06-01
+Swansea,England Premier League,73.39m,21,81.10m,24,7.72m,17-18,2017-08-01,2018-06-01
+Brighton,England Premier League,66.50m,23,400k,22,-66.10m,17-18,2017-08-01,2018-06-01
+Southampton,England Premier League,61.25m,12,98.35m,14,37.10m,17-18,2017-08-01,2018-06-01
+Stoke,England Premier League,57.70m,18,35.14m,17,-22.56m,17-18,2017-08-01,2018-06-01
+West Ham,England Premier League,56.80m,15,69.02m,25,12.22m,17-18,2017-08-01,2018-06-01
+Huddersfield,England Premier League,56.75m,22,6.46m,16,-50.30m,17-18,2017-08-01,2018-06-01
+Crystal Palace,England Premier League,55.95m,15,3.00m,18,-52.95m,17-18,2017-08-01,2018-06-01
+West Brom,England Premier League,53.50m,17,2.05m,11,-51.45m,17-18,2017-08-01,2018-06-01
+Newcastle,England Premier League,46.50m,27,21.22m,29,-25.28m,17-18,2017-08-01,2018-06-01
+Burnley,England Premier League,35.74m,18,50.00m,21,14.26m,17-18,2017-08-01,2018-06-01
+Bournemouth,England Premier League,34.30m,15,-,14,-34.30m,17-18,2017-08-01,2018-06-01
+Chelsea,England Premier League,208.80m,30,83.25m,31,-125.55m,18-19,2018-08-01,2019-06-01
+Liverpool,England Premier League,182.20m,18,41.32m,21,-140.88m,18-19,2018-08-01,2019-06-01
+Fulham,England Premier League,116.50m,18,5.35m,11,-111.15m,18-19,2018-08-01,2019-06-01
+Leicester,England Premier League,114.60m,16,95.80m,18,-18.80m,18-19,2018-08-01,2019-06-01
+Wolves,England Premier League,112.75m,35,23.30m,46,-89.45m,18-19,2018-08-01,2019-06-01
+West Ham,England Premier League,100.90m,18,13.77m,13,-87.14m,18-19,2018-08-01,2019-06-01
+Everton,England Premier League,99.80m,19,28.65m,23,-71.15m,18-19,2018-08-01,2019-06-01
+Bournemouth,England Premier League,91.60m,14,20.20m,16,-71.40m,18-19,2018-08-01,2019-06-01
+Brighton,England Premier League,90.62m,28,13.62m,29,-77.00m,18-19,2018-08-01,2019-06-01
+Man United,England Premier League,82.70m,9,30.55m,10,-52.15m,18-19,2018-08-01,2019-06-01
+Arsenal,England Premier League,80.15m,17,9.10m,12,-71.05m,18-19,2018-08-01,2019-06-01
+Man City,England Premier League,78.59m,19,57.60m,22,-20.99m,18-19,2018-08-01,2019-06-01
+Southampton,England Premier League,62.25m,16,26.10m,18,-36.15m,18-19,2018-08-01,2019-06-01
+Newcastle,England Premier League,59.75m,22,51.05m,23,-8.70m,18-19,2018-08-01,2019-06-01
+Cardiff,England Premier League,51.20m,18,-,18,-51.20m,18-19,2018-08-01,2019-06-01
+Huddersfield,England Premier League,50.70m,14,12.33m,16,-38.37m,18-19,2018-08-01,2019-06-01
+Burnley,England Premier League,33.00m,8,8.00m,11,-25.00m,18-19,2018-08-01,2019-06-01
+Watford,England Premier League,30.10m,26,51.84m,27,21.74m,18-19,2018-08-01,2019-06-01
+Crystal Palace,England Premier League,11.85m,11,350k,16,-11.50m,18-19,2018-08-01,2019-06-01
+Tottenham,England Premier League,-,4,5.35m,4,5.35m,18-19,2018-08-01,2019-06-01
+Man United,England Premier League,236.80m,13,81.18m,12,-155.62m,19-20,2019/8/1,2020/8/1
+Man City,England Premier League,169.82m,25,71.00m,26,-98.82m,19-20,2019/8/1,2020/8/1
+Arsenal,England Premier League,160.80m,16,53.65m,19,-107.15m,19-20,2019/8/1,2020/8/1
+Aston Villa,England Premier League,159.50m,22,3.00m,22,-156.50m,19-20,2019/8/1,2020/8/1
+Tottenham,England Premier League,150.50m,12,64.50m,14,-86.00m,19-20,2019/8/1,2020/8/1
+Everton,England Premier League,121.00m,22,87.80m,22,-33.20m,19-20,2019/8/1,2020/8/1
+West Ham,England Premier League,119.80m,10,55.48m,17,-64.32m,19-20,2019/8/1,2020/8/1
+Wolves,England Premier League,116.70m,28,24.10m,26,-92.60m,19-20,2019/8/1,2020/8/1
+Leicester,England Premier League,104.30m,13,88.50m,13,-15.80m,19-20,2019/8/1,2020/8/1
+Newcastle,England Premier League,72.90m,13,35.64m,11,-37.26m,19-20,2019/8/1,2020/8/1
+Sheffield United,England Premier League,72.50m,23,350k,21,-72.15m,19-20,2019/8/1,2020/8/1
+Brighton,England Premier League,61.74m,25,8.50m,30,-53.24m,19-20,2019/8/1,2020/8/1
+Southampton,England Premier League,61.50m,14,27.30m,17,-34.20m,19-20,2019/8/1,2020/8/1
+Watford,England Premier League,56.00m,21,25.40m,21,-30.60m,19-20,2019/8/1,2020/8/1
+Bournemouth,England Premier League,54.91m,13,34.63m,12,-20.29m,19-20,2019/8/1,2020/8/1
+Chelsea,England Premier League,45.00m,22,157.27m,29,112.27m,19-20,2019/8/1,2020/8/1
+Burnley,England Premier League,23.85m,8,13.55m,10,-10.30m,19-20,2019/8/1,2020/8/1
+Liverpool,England Premier League,10.40m,15,48.00m,16,37.60m,19-20,2019/8/1,2020/8/1
+Norwich,England Premier League,8.82m,23,2.20m,28,-6.62m,19-20,2019/8/1,2020/8/1
+Crystal Palace,England Premier League,7.60m,13,55.38m,15,47.78m,19-20,2019/8/1,2020/8/1
+Chelsea,England Premier League,247.20m,31,57.15m,26,-190.05m,20-21,2020-08-01,2021-06-01
+Man City,England Premier League,173.40m,28,64.00m,27,-109.40m,20-21,2020-08-01,2021-06-01
+Leeds,England Premier League,127.80m,16,-,17,-127.80m,20-21,2020-08-01,2021-06-01
+Tottenham,England Premier League,110.50m,15,13.30m,11,-97.20m,20-21,2020-08-01,2021-06-01
+Aston Villa,England Premier League,101.35m,12,2.77m,15,-98.58m,20-21,2020-08-01,2021-06-01
+Wolves,England Premier League,87.59m,21,79.20m,24,-8.39m,20-21,2020-08-01,2021-06-01
+Arsenal,England Premier League,86.00m,16,19.15m,16,-66.85m,20-21,2020-08-01,2021-06-01
+Liverpool,England Premier League,84.05m,16,17.20m,13,-66.85m,20-21,2020-08-01,2021-06-01
+Man United,England Premier League,83.80m,17,19.50m,17,-64.30m,20-21,2020-08-01,2021-06-01
+Everton,England Premier League,74.37m,20,4.43m,20,-69.95m,20-21,2020-08-01,2021-06-01
+Sheffield United,England Premier League,62.70m,16,-,19,-62.70m,20-21,2020-08-01,2021-06-01
+Leicester,England Premier League,59.40m,19,53.77m,18,-5.63m,20-21,2020-08-01,2021-06-01
+West Ham,England Premier League,54.70m,16,45.41m,17,-9.29m,20-21,2020-08-01,2021-06-01
+Brighton,England Premier League,50.10m,28,20.60m,22,-29.50m,20-21,2020-08-01,2021-06-01
+West Brom,England Premier League,42.14m,21,8.10m,21,-34.04m,20-21,2020-08-01,2021-06-01
+Newcastle,England Premier League,39.00m,11,275k,15,-38.73m,20-21,2020-08-01,2021-06-01
+Southampton,England Premier League,37.30m,23,26.30m,18,-11.00m,20-21,2020-08-01,2021-06-01
+Fulham,England Premier League,37.25m,23,-,19,-37.25m,20-21,2020-08-01,2021-06-01
+Crystal Palace,England Premier League,22.40m,13,20.00m,8,-2.40m,20-21,2020-08-01,2021-06-01
+Burnley,England Premier League,1.10m,6,2.30m,6,1.20m,20-21,2020-08-01,2021-06-01
+Arsenal,England Premier League,167.40m,13,31.40m,20,-136.00m,21-22,2021-08-01,2022-06-01
+Man United,England Premier League,142.00m,17,31.10m,14,-110.90m,21-22,2021-08-01,2022-06-01
+Man City,England Premier League,138.90m,21,93.80m,24,-45.10m,21-22,2021-08-01,2022-06-01
+Newcastle,England Premier League,130.50m,13,-,11,-130.50m,21-22,2021-08-01,2022-06-01
+Aston Villa,England Premier League,129.80m,22,127.00m,18,-2.80m,21-22,2021-08-01,2022-06-01
+Chelsea,England Premier League,118.00m,21,148.94m,23,30.94m,21-22,2021-08-01,2022-06-01
+Tottenham,England Premier League,95.90m,14,34.62m,19,-61.28m,21-22,2021-08-01,2022-06-01
+Liverpool,England Premier League,87.00m,14,29.55m,12,-57.45m,21-22,2021-08-01,2022-06-01
+Crystal Palace,England Premier League,85.62m,13,-,16,-85.62m,21-22,2021-08-01,2022-06-01
+Brighton,England Premier League,75.00m,26,78.80m,29,3.80m,21-22,2021-08-01,2022-06-01
+West Ham,England Premier League,74.50m,10,4.24m,8,-70.27m,21-22,2021-08-01,2022-06-01
+Leicester,England Premier League,67.60m,11,4.00m,11,-63.60m,21-22,2021-08-01,2022-06-01
+Norwich,England Premier League,63.55m,32,38.40m,31,-25.15m,21-22,2021-08-01,2022-06-01
+Southampton,England Premier League,63.40m,10,60.35m,14,-3.05m,21-22,2021-08-01,2022-06-01
+Leeds,England Premier League,61.05m,14,-,14,-61.05m,21-22,2021-08-01,2022-06-01
+Burnley,England Premier League,49.40m,8,40.50m,6,-8.90m,21-22,2021-08-01,2022-06-01
+Watford,England Premier League,43.50m,31,12.85m,29,-30.65m,21-22,2021-08-01,2022-06-01
+Everton,England Premier League,39.50m,14,46.00m,15,6.50m,21-22,2021-08-01,2022-06-01
+Brentford,England Premier League,38.20m,19,1.00m,15,-37.20m,21-22,2021-08-01,2022-06-01
+Wolves,England Premier League,37.60m,26,31.80m,22,-5.80m,21-22,2021-08-01,2022-06-01
+Chelsea,England Premier League,611.49m,24,67.86m,23,-543.63m,22-23,2022-08-01,2023-06-01
+Man United,England Premier League,243.28m,25,23.65m,20,-219.63m,22-23,2022-08-01,2023-06-01
+Nott'm Forest,England Premier League,195.25m,42,5.00m,26,-190.25m,22-23,2022-08-01,2023-06-01
+Arsenal,England Premier League,191.90m,25,23.80m,18,-168.10m,22-23,2022-08-01,2023-06-01
+West Ham,England Premier League,186.50m,13,21.55m,13,-164.95m,22-23,2022-08-01,2023-06-01
+Newcastle,England Premier League,185.35m,17,14.06m,13,-171.29m,22-23,2022-08-01,2023-06-01
+Tottenham,England Premier League,177.90m,15,38.75m,14,-139.15m,22-23,2022-08-01,2023-06-01
+Wolves,England Premier League,177.11m,32,62.87m,28,-114.24m,22-23,2022-08-01,2023-06-01
+Man City,England Premier League,155.00m,29,162.17m,24,7.17m,22-23,2022-08-01,2023-06-01
+Southampton,England Premier League,152.11m,21,5.50m,14,-146.61m,22-23,2022-08-01,2023-06-01
+Leeds,England Premier League,151.39m,26,114.50m,20,-36.89m,22-23,2022-08-01,2023-06-01
+Liverpool,England Premier League,137.30m,8,80.70m,11,-56.60m,22-23,2022-08-01,2023-06-01
+Aston Villa,England Premier League,100.14m,23,54.00m,22,-46.14m,22-23,2022-08-01,2023-06-01
+Bournemouth,England Premier League,83.10m,17,-,13,-83.10m,22-23,2022-08-01,2023-06-01
+Everton,England Premier League,78.20m,15,103.60m,18,25.40m,22-23,2022-08-01,2023-06-01
+Fulham,England Premier League,72.20m,20,21.90m,21,-50.30m,22-23,2022-08-01,2023-06-01
+Brighton,England Premier League,55.70m,21,137.90m,23,82.20m,22-23,2022-08-01,2023-06-01
+Brentford,England Premier League,49.25m,23,3.60m,21,-45.65m,22-23,2022-08-01,2023-06-01
+Leicester,England Premier League,49.00m,10,81.40m,9,32.40m,22-23,2022-08-01,2023-06-01
+Crystal Palace,England Premier League,46.60m,14,5.46m,12,-41.15m,22-23,2022-08-01,2023-06-01
+Chelsea,England Premier League,467.80m,25,269.40m,25,-198.40m,23-24,2023-08-01,2024-06-01
+Tottenham,England Premier League,247.10m,19,117.20m,13,-129.90m,23-24,2023-08-01,2024-06-01
+Man City,England Premier League,241.10m,16,114.50m,15,-126.60m,23-24,2023-08-01,2024-06-01
+Arsenal,England Premier League,234.94m,14,67.90m,14,-167.04m,23-24,2023-08-01,2024-06-01
+Man United,England Premier League,203.40m,11,55.34m,17,-148.06m,23-24,2023-08-01,2024-06-01
+Liverpool,England Premier League,172.00m,12,60.70m,12,-111.30m,23-24,2023-08-01,2024-06-01
+Newcastle,England Premier League,153.20m,13,44.60m,14,-108.60m,23-24,2023-08-01,2024-06-01
+West Ham,England Premier League,137.56m,9,156.40m,7,18.84m,23-24,2023-08-01,2024-06-01
+Bournemouth,England Premier League,127.69m,17,1.50m,16,-126.19m,23-24,2023-08-01,2024-06-01
+Nott'm Forest,England Premier League,122.05m,26,64.82m,29,-57.23m,23-24,2023-08-01,2024-06-01
+Burnley,England Premier League,111.05m,20,3.80m,11,-107.25m,23-24,2023-08-01,2024-06-01
+Brighton,England Premier League,100.35m,30,195.90m,21,95.55m,23-24,2023-08-01,2024-06-01
+Wolves,England Premier League,94.00m,20,169.20m,23,75.20m,23-24,2023-08-01,2024-06-01
+Aston Villa,England Premier League,93.00m,8,32.55m,10,-60.45m,23-24,2023-08-01,2024-06-01
+Fulham,England Premier League,68.47m,15,52.60m,14,-15.87m,23-24,2023-08-01,2024-06-01
+Brentford,England Premier League,64.85m,14,10.09m,13,-54.76m,23-24,2023-08-01,2024-06-01
+Sheffield United,England Premier League,64.45m,10,30.90m,9,-33.55m,23-24,2023-08-01,2024-06-01
+Everton,England Premier League,40.50m,16,82.80m,16,42.30m,23-24,2023-08-01,2024-06-01
+Crystal Palace,England Premier League,38.70m,6,-,6,-38.70m,23-24,2023-08-01,2024-06-01
+Luton,England Premier League,22.75m,23,-,20,-22.75m,23-24,2023-08-01,2024-06-01
